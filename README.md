@@ -16,16 +16,16 @@ This will call the ombdapi and show:
 
  node liri.js spotify-this-song "Radioactive"
 this will display:
-  *Artist(s)
-  *The song's name
-  *A preview link of the song from Spotify
-  *The album that the song is from
+  * Artist(s)
+  * The song's name
+  * A preview link of the song from Spotify
+  * The album that the song is from
 
  node liri.js concert-this Evanescence
 will show:
-  *Name of the venue
-  *Venue location
-  *Date of the Event (use moment to format this as "MM/DD/YYYY")
+  * Name of the venue
+  * Venue location
+  * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
 -node liri.js do-what-it-says
 You'll have to run it to see.
