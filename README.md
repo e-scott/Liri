@@ -25,7 +25,7 @@ this will display:
 will show:
   * Name of the venue
   * Venue location
-  * Date of the Event (use moment to format this as "MM/DD/YYYY")
+  * Date of the Event (using moment Month/day/Year/Time)
 
 -node liri.js do-what-it-says
 You'll have to run it to see.
